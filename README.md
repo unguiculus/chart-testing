@@ -123,7 +123,7 @@ Build ct using Goreleaser.
 CircleCI creates releases automatically when a new tag is pushed. Tags are created using `tag.sh`.
 
 ```console
- ./tag.sh -h
+$ ./tag.sh -h
 Usage: tag.sh <options>
 
 Create and push a tag.
